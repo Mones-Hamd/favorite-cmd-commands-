@@ -1,5 +1,3 @@
-# favorite-cmd-commands-
-
 # favorite-cmd-commands
 
 my **favorite** cmd _commands_ is :
@@ -22,11 +20,11 @@ we use this command to create new directory // example :
 mkdir /"foldername"
 ```
 
-and we can make nested directory by adding `-p`
+and we can make nested directory by adding `-p` .
 
 ---
 
-## rm
+## rm :
 
 we use rm to remove files // example :
 
